@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/netlify": "^5.2.0",
-    "@astrojs/react": "^3.3.0",
+    "@astrojs/react": "^4.3.0",
     "@astrojs/tailwind": "^5.1.0",
     "@fontsource/inter": "^5.0.18",
     "@netlify/blobs": "^8.1.0",
